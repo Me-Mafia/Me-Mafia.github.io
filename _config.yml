@@ -4,12 +4,15 @@
 
 # Site
 title: Ikagnaw's site
-subtitle: ''
-description: ''
+subtitle: We have to be very strong, if we want to do something very wrong 😺
+description: A simple **personal homepage** 
 keywords:
 author: Ikagnaw
-language: en
-timezone: ''
+language: 
+- zh-cn
+- zh-tw
+- en
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -40,7 +43,10 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
@@ -96,7 +102,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: flexblock
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
