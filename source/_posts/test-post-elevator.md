@@ -3,6 +3,7 @@ title: Test Post - Elevator Simulator Specification
 date: 2024-07-17 16:58:19
 tags: 
     - test
+toc: true
 ---
 
 # Specification 

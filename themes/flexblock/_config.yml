@@ -1,14 +1,18 @@
 # Header
 menu:
   首页: /
-  # 友链: /links
+  # 归档: /archives
+  友链: /links
+  # 分类: categories
+  # 标签: tags
   关于: /about
+
 
 # 主页banner图
 banner: /assets/images/104139863_p0.png
 
 # 站点通知信息
-notice: flex-block主题部分重构，详情查看https://github.com/miiiku/flex-block
+notice: 
 
 # 作者信息
 author:
@@ -80,7 +84,7 @@ polyfill:
 jsdelivr_mirror: 
 
 # 国内备案信息
-beian: 
+beian: "\"If wars can be started with lies, they can be stopped by truth.\""
 
 # 谷歌分析
 google_analytics: 
