@@ -3,7 +3,7 @@ title: 2024Spring 宋词导读填词
 date: 2024-07-18 11:36:22
 categories: 
     - 课程作业
-    - 文化&创作
+    - 创作
 tags: 
     - 宋词
     - 填词
